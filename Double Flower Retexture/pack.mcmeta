@@ -1,0 +1,25 @@
+{
+	"pack": {
+		"name": "Double Flower Retexture",
+		"source": "https://modrinth.com/resourcepack/double-flower-retexture",
+		"pack_format": 64,
+		"description": [
+			{
+				"text": "Retextures of ",
+				"color": "#767676"
+			},
+			{
+				"text": "double flower items",
+				"color": "#979797"
+			},
+			{
+				"text": " by ",
+				"color": "#767676"
+			},
+			{
+				"text": "Sniezek",
+				"color": "#beabee"
+			}
+		]
+	}
+}
